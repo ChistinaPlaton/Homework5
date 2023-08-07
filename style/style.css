@@ -1,0 +1,35 @@
+/* 1. 3а вкладеністю */
+ul li {
+    background: #6e4747;
+}
+div p {
+        background: rgb(145, 0, 0);
+    }
+/*2. За id */
+#backgroundid {
+    background: #09b1c7;
+}
+#name {
+        background: #013238;
+    }
+/* 3. За назвою елемента */
+h1 {
+    background: #2bfa02;
+}
+h2 {
+    background: #8202fa;
+}
+/* 4. За класом */
+.class3 {
+    background: #ee0505;
+}
+.clas3 {
+    background: #ee0572;
+}
+/* 5. 3а кількома класами */
+.class1.class2 {
+    background: #e9fa02;
+}
+.clas1.clas2 {
+    background: #464b02;
+}
